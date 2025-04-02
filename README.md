@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos que desenvolv
 
 - 🌱 Atualmente estou aprendendo ****HTML**, **CSS**, **JavaScript** e **Python****.
 - 💬 Pergunte-me sobre **[áreas de interesse ou tecnologias que domina]**.
-- 📫 Como me encontrar: **[seu e-mail]** ou [LinkedIn](https://www.linkedin.com/in/seu-linkedin).
+- 📫 Como me encontrar: **ewerlon@outlook.com** ou [LinkedIn](https://www.linkedin.com/in/ewerlonsilva).
 - ⚡ Curiosidade: **[algo interessante sobre você, como hobbies ou algo único]**.
 
 ## 🛠️ Tecnologias e Ferramentas
