@@ -1,11 +1,10 @@
-## Olá, sou Ewerlon Silva! 👋
-# Olá, sou [Seu Nome] 👋
+# Olá, sou Ewerlon Silva 👋
 
 Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos que desenvolvi ao longo do tempo, meus estudos e algumas contribuições para a comunidade. Sou apaixonado por **tecnologia**, **desenvolvimento de software** e **aprendizado contínuo**.
 
 ## 🚀 Sobre mim
 
-- 🌱 Atualmente estou aprendendo **[Tecnologias que está aprendendo, como Python, JavaScript, etc.]**.
+- 🌱 Atualmente estou aprendendo ****HTML**, **CSS**, **JavaScript** e **Python****.
 - 💬 Pergunte-me sobre **[áreas de interesse ou tecnologias que domina]**.
 - 📫 Como me encontrar: **[seu e-mail]** ou [LinkedIn](https://www.linkedin.com/in/seu-linkedin).
 - ⚡ Curiosidade: **[algo interessante sobre você, como hobbies ou algo único]**.
