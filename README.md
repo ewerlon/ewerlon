@@ -1,6 +1,6 @@
 # Olá, sou Ewerlon Silva 👋
 
-Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos que desenvolvi ao longo do tempo, meus estudos e algumas contribuições para a comunidade. Sou apaixonado por **tecnologia**, **desenvolvimento de software** e **aprendizado contínuo**.
+🎯 **Transição de carreira: Suporte de TI → Backend & Cloud**
 
 ## 🚀 Sobre mim
 
